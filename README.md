@@ -1,7 +1,7 @@
 # Video Game Taxonomy
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20935704.svg)](https://doi.org/10.5281/zenodo.20935704)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20936124.svg)](https://doi.org/10.5281/zenodo.20936124)
 
 This repository contains notebook-based Python code for cleaning, preparing, and analyzing survey data used to develop a taxonomy of video game mood and experience terms. The workflow takes wide-format Qualtrics survey exports, restructures participant-provided mood terms into term-level records, applies manual cleaning and removal decisions, stems normalized terms, and generates descriptive figures for manuscript analysis.
 
@@ -247,7 +247,7 @@ Do not commit raw survey exports, manually cleaned participant-level tables, or 
 This repository has been archived through Zenodo. Please cite the software record as:
 
 ```text
-Hirt, J. (2026). Video Game Taxonomy Analysis (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.20935704
+Hirt, J. (2026). Video Game Taxonomy Analysis (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.20936124
 ```
 
 BibTeX:
@@ -258,9 +258,9 @@ BibTeX:
   title     = {Video Game Taxonomy Analysis},
   year      = {2026},
   publisher = {Zenodo},
-  version   = {v1.0.0},
-  doi       = {10.5281/zenodo.20935704},
-  url       = {https://doi.org/10.5281/zenodo.20935704}
+  version   = {v1.0.1},
+  doi       = {10.5281/zenodo.20936124},
+  url       = {https://doi.org/10.5281/zenodo.20936124}
 }
 ```
 
