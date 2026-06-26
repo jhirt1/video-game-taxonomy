@@ -177,3 +177,16 @@ cython_debug/
 *.csv
 *.xlsx
 *.xls
+
+# 3. Add generated images/html to .gitignore
+cat >> .gitignore <<'EOF'
+
+# Generated figures and notebook exports
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.html
+EOF
